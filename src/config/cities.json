@@ -29,8 +29,12 @@
       "folderName": "Laval"
     },
     {
-      "displayName": "Le Mans",
-      "folderName": "Le_Mans"
+      "displayName": "Laval DAB",
+      "folderName": "DAB_Laval"
+    },
+    {
+      "displayName": "Le Mans DAB",
+      "folderName": "DAB_Le_Mans"
     },
     {
       "displayName": "Lorient",
@@ -43,6 +47,10 @@
     {
       "displayName": "Nantes",
       "folderName": "Nantes"
+    },
+    {
+      "displayName": "Nantes DAB",
+      "folderName": "DAB_Nantes"
     },
     {
       "displayName": "Ploermel",
@@ -63,6 +71,10 @@
     {
       "displayName": "Saint-Brieuc",
       "folderName": "ST_Brieuc"
+    },
+    {
+      "displayName": "Saint-Brieuc DAB",
+      "folderName": "DAB_ST_Brieuc"
     },
     {
       "displayName": "Saint-Nazaire",
